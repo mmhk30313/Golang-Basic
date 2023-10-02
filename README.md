@@ -7,5 +7,8 @@
 * After that we have to run the following command in current directory:
 
 ```go
-1. go run file_name.go -> for running go program
+1. For running go program:
+        go run file_name.go
+
+2. 
 ```
