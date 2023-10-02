@@ -11,5 +11,4 @@
 1. For running go program:
         go run file_name.go
 
-2. 
 ```
