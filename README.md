@@ -6,6 +6,7 @@
 * After that we have to create a file like file_name.go
 * After that we have to run the following command in current directory:
 
+### Command From Terminal
 ```go
 1. For running go program:
         go run file_name.go
